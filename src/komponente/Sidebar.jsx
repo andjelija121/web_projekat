@@ -15,17 +15,17 @@ function Sidebar() {
   }]
 
   return (
-    <div className='w-60 h-screen text-dark-coffee-50 flex flex-col px-4 py-10 '>
+    <div className='w-60 h-screen text-dark-coffee-50 flex flex-col px-4 py-10'>
         <div className='flex items-center gap-3 mb-10'>
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
   <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25" />
 </svg>
         <span className='text-2xl font-bold'>Тефтер</span>
         </div>
-        <nav className='flex-1 flex flex-col gap-4 '>
+        <nav className='flex-1 flex flex-col gap-5 '>
             {
                 linkovi.map(link=>(
-                    <NavLink to={link.do} key={link.do} className="flex items-center gap-6 rounded-lg text-base py-2 px-3">
+                    <NavLink to={link.do} key={link.do} className={({isActive})=>`flex items-center gap-6 rounded-4xl text-base py-3 px-4 ${isActive ? "bg-dark-coffee-50 text-braon" :"text-dark-coffee-50 hover:bg-dark-coffee-50 hover:text-braon transition"} `}>
                         <span>{link.ikona}</span>
                         {link.labela}
                     </NavLink>
