@@ -5,6 +5,7 @@ import AutoriAdmin from "./stranice/AutoriAdmin"
 import KatalogKnjiga from "./stranice/KatalogKnjiga"
 import KnjigaAdmin from "./stranice/KnjigaAdmin"
 import PojedinacnaKnjiga from "./stranice/PojedinacnaKnjiga"
+import AutorDetalji from "./stranice/AutorDetalji"
 
 function App() {
 
@@ -12,10 +13,10 @@ function App() {
     <BrowserRouter>
         <Routes>
           <Route element={<AppKostur/>}> 
-              <Route index element={<Navigate to="/autori" replace />}/>
+              <Route index element={<Navigate to="/knjige" replace />}/>
               <Route path='/autori' element={<Autori/>}/>
               <Route path='/autoriAdmin' element={<AutoriAdmin/>}/>
-              <Route index element={<Navigate to="/knjige" replace />}/>
+              <Route path='autori/:autorId' element={<AutorDetalji/>}/>
               <Route path='/knjige' element={<KatalogKnjiga/>}/>
               <Route path='/knjigaAdmin' element={<KnjigaAdmin/>}/>
               <Route path='/pojedinacnaKnjiga' element={<PojedinacnaKnjiga/>}/>
