@@ -1,0 +1,349 @@
+{
+  "autori": {
+    "autor1": {
+      "ime": "Милош",
+      "prezime": "Црњански",
+      "biografija": "Милош Црњански је један од најзначајнијих српских писаца 20. века. Рођен у Чонграду, школовао се у Бечу и Паризу. Аутор је романа, поезије и путописа. Његово дело обележило је читаву генерацију читалаца.",
+      "slike": [
+        "https://imgs.search.brave.com/D-M8TwA8ogK3Iu7l6scv9u293hIvqboOlUfXWGpkkzw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb25maWRlbnQt/eW91bmctbWFuLWF1/dHVtbi1wYXJrLXNl/dHRpbmctcG9ydHJh/aXQtc21pbGluZy1t/YWxlLXdpdGgtY3Jv/c3NlZC1hcm1zXzEx/OTEyMzYtMzY0My5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA"
+      ],
+      "datum_rodjenja": "1893-10-26",
+      "status": "Преминуо",
+      "broj_nagrada": 12,
+      "broj_prodatih_primeraka": 480000,
+      "kontakt_telefon_menadzera": "+381 11 234-5678"
+    },
+    "autor2": {
+      "ime": "Исидора",
+      "prezime": "Секулић",
+      "biografija": "Исидора Секулић је прва жена примљена у Српску академију наука и уметности. Писала је есеје, приче и путописе. Сматра се једним од темеља модерне српске прозе.",
+      "slike": [
+        "https://imgs.search.brave.com/wen5xbWuK_faUrWIPummyTXWs7szHqpkw5FNX83QpPA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY3/NDEyMTg0Ny9waG90/by9oYXBweS13b21h/bi13aXRoLWN1cmx5/LWhhaXItcG9zaW5n/LWluLXN0dWRpby5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/MUhRUGJ4bElzRHVZ/ZEp6VDBacWxpLTNa/ZTFrX1BLal9veWZy/MFd5VFNpcz0"
+      ],
+      "datum_rodjenja": "1877-02-16",
+      "status": "Преминуо",
+      "broj_nagrada": 9,
+      "broj_prodatih_primeraka": 310000,
+      "kontakt_telefon_menadzera": "+381 21 345-6789"
+    },
+    "autor3": {
+      "ime": "Давид",
+      "prezime": "Албахари",
+      "biografija": "Давид Албахари је савремени српски писац и преводилац. Аутор је великог броја романа и приповедака. Живи и ствара у Канади. Добитник је бројних домаћих и међународних награда.",
+      "slike": [
+        "https://imgs.search.brave.com/D-M8TwA8ogK3Iu7l6scv9u293hIvqboOlUfXWGpkkzw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb25maWRlbnQt/eW91bmctbWFuLWF1/dHVtbi1wYXJrLXNl/dHRpbmctcG9ydHJh/aXQtc21pbGluZy1t/YWxlLXdpdGgtY3Jv/c3NlZC1hcm1zXzEx/OTEyMzYtMzY0My5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA"
+      ],
+      "datum_rodjenja": "1948-03-22",
+      "status": "Активан",
+      "broj_nagrada": 7,
+      "broj_prodatih_primeraka": 220000,
+      "kontakt_telefon_menadzera": "+381 64 123-4567"
+    },
+    "autor4": {
+      "ime": "Горан",
+      "prezime": "Петровић",
+      "biografija": "Горан Петровић је српски писац познат по магичном реализму и богатом поетском изразу. Његови романи преведени су на десетине језика. Добитник је НИН-ове награде.",
+      "slike": [
+        "https://imgs.search.brave.com/D-M8TwA8ogK3Iu7l6scv9u293hIvqboOlUfXWGpkkzw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb25maWRlbnQt/eW91bmctbWFuLWF1/dHVtbi1wYXJrLXNl/dHRpbmctcG9ydHJh/aXQtc21pbGluZy1t/YWxlLXdpdGgtY3Jv/c3NlZC1hcm1zXzEx/OTEyMzYtMzY0My5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA"
+      ],
+      "datum_rodjenja": "1961-07-05",
+      "status": "Активан",
+      "broj_nagrada": 5,
+      "broj_prodatih_primeraka": 195000,
+      "kontakt_telefon_menadzera": "+381 63 987-6543"
+    },
+    "autor5": {
+      "ime": "Биљана",
+      "prezime": "Срблјановић",
+      "biografija": "Биљана Срблјановић је позната српска драматуршкиња чија дела играју на сценама широм света. Добитница је бројних европских позоришних награда. Данас ради као слободни уметник.",
+      "slike": [
+"https://imgs.search.brave.com/wen5xbWuK_faUrWIPummyTXWs7szHqpkw5FNX83QpPA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY3/NDEyMTg0Ny9waG90/by9oYXBweS13b21h/bi13aXRoLWN1cmx5/LWhhaXItcG9zaW5n/LWluLXN0dWRpby5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/MUhRUGJ4bElzRHVZ/ZEp6VDBacWxpLTNa/ZTFrX1BLal9veWZy/MFd5VFNpcz0"      ],
+      "datum_rodjenja": "1970-12-18",
+      "status": "У пензији",
+      "broj_nagrada": 11,
+      "broj_prodatih_primeraka": 145000,
+      "kontakt_telefon_menadzera": "+381 69 111-2233"
+    },
+    "autor6": {
+      "ime": "Немања",
+      "prezime": "Митровић",
+      "biografija": "Немања Митровић је млади савремени аутор из Новог Сада. Дебитовао је романом о животу у граду, а затим наставио са кратким причама о свакодневним људима. Добитник је награде Меша Селимовић.",
+      "slike": [
+        "https://imgs.search.brave.com/D-M8TwA8ogK3Iu7l6scv9u293hIvqboOlUfXWGpkkzw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb25maWRlbnQt/eW91bmctbWFuLWF1/dHVtbi1wYXJrLXNl/dHRpbmctcG9ydHJh/aXQtc21pbGluZy1t/YWxlLXdpdGgtY3Jv/c3NlZC1hcm1zXzEx/OTEyMzYtMzY0My5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA"
+      ],
+      "datum_rodjenja": "1988-05-30",
+      "status": "Активан",
+      "broj_nagrada": 2,
+      "broj_prodatih_primeraka": 62000,
+      "kontakt_telefon_menadzera": "+381 65 444-5566"
+    }
+  },
+  "knjige": {
+    "knjiga1": {
+      "naziv": "Сеобе",
+      "opis": "Сеобе су историјски роман о судбини српских граничара у 18. веку. Роман прати Вука Исаковича и његову јединицу у ратовима Хабзбуршке монархије. Дело је прожето лиризмом и носталгијом.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Историјски роман",
+      "format": "Тврди повез",
+      "cena": 1490,
+      "broj_strana": 312,
+      "id_autora": "autor1",
+      "isbn": "978-86-7543-101-2"
+    },
+    "knjiga2": {
+      "naziv": "Лирика Итаке",
+      "opis": "Збирка поезије Милоша Црњанског која је обележила почетак модерне српске поезије. Испуњена сликама туге, домовине и вечног лутања.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Поезија",
+      "format": "Мeki повез",
+      "cena": 890,
+      "broj_strana": 128,
+      "id_autora": "autor1",
+      "isbn": "978-86-7543-102-9"
+    },
+    "knjiga3": {
+      "naziv": "Ђакон Богородичине цркве",
+      "opis": "Збирка прича Исидоре Секулић у којој ауторка истражује духовност, усамљеност и унутрашњи живот људске душе. Написана са изузетном психолошком дубином.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Кратке приче",
+      "format": "Мeki повез",
+      "cena": 750,
+      "broj_strana": 210,
+      "id_autora": "autor2",
+      "isbn": "979-10-9001-045-3"
+    },
+    "knjiga4": {
+      "naziv": "Писма из Норвешке",
+      "opis": "Путописни есеји Исидоре Секулић настали током боравка у Скандинавији. Ауторка бележи утиске о природи, људима и култури севера Европе.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Путопис",
+      "format": "Тврди повез",
+      "cena": 980,
+      "broj_strana": 178,
+      "id_autora": "autor2",
+      "isbn": "978-86-7543-215-8"
+    },
+    "knjiga5": {
+      "naziv": "Мамац",
+      "opis": "Роман Давида Албахарија о писцу који покушава да реконструише причу о сопственој мајци. Дело је прожето темама идентитета, сећања и губитка.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Савремени роман",
+      "format": "Мeki повез",
+      "cena": 1190,
+      "broj_strana": 196,
+      "id_autora": "autor3",
+      "isbn": "978-86-521-0044-8"
+    },
+    "knjiga6": {
+      "naziv": "Гец и Мајер",
+      "opis": "Роман о двојици нацистичких официра задужених за вршење масовних убистава. Кроз хладну и дистанцирану нарацију, Албахари истражује банализацију зла.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Историјски роман",
+      "format": "Тврди повез",
+      "cena": 1350,
+      "broj_strana": 142,
+      "id_autora": "autor3",
+      "isbn": "978-86-521-0198-8"
+    },
+    "knjiga7": {
+      "naziv": "Опсада цркве Светог Спаса",
+      "opis": "Магични реалистични роман Горана Петровића о библиотекару који открива тајанствену слику. Роман је богат симболима и фантастичним елементима.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Магични реализам",
+      "format": "Тврди повез",
+      "cena": 1590,
+      "broj_strana": 384,
+      "id_autora": "autor4",
+      "isbn": "978-86-7549-320-1"
+    },
+    "knjiga8": {
+      "naziv": "Атлас описан небом",
+      "opis": "Поетски роман Горана Петровића у коме главни јунак путује кроз простор и време уз помоћ тајанствене карте. Прожет лепотом језика и маштом.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Фантастика",
+      "format": "Мeki повез",
+      "cena": 1280,
+      "broj_strana": 298,
+      "id_autora": "autor4",
+      "isbn": "9788675493214"
+    },
+    "knjiga9": {
+      "naziv": "Породичне приче",
+      "opis": "Драмски текст Биљане Срблјановић о четири породице из различитих делова бивше Југославије. Дело истражује последице ратова и распада земље на обичне људе.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Драма",
+      "format": "Мeki повез",
+      "cena": 920,
+      "broj_strana": 156,
+      "id_autora": "autor5",
+      "isbn": "978-86-7543-409-7"
+    },
+    "knjiga10": {
+      "naziv": "Улице под снегом",
+      "opis": "Дебитантски роман Немање Митровића о младом човеку у Новом Саду, његовим пријатељима и малим свакодневним борбама. Роман пише у прозном стилу блиском млађим читаоцима.",
+      "slike": [
+        "https://imgs.search.brave.com/o4ZUnnXQNAE5JlyCx_3sLwosmalUfwRihAxqfIUga5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pay5p/bWFnZWtpdC5pby94/ZGliYmx6aGgvdHI6/dy0zODQwLGYtd2Vi/cC84ZGQ3MDVhYjFj/MGI4NTk4NTJmZTIz/ZGE1MjA0NThlY2Fk/MGQ0YWY0LTE0MDB4/MjEwMC5qcGc"
+      ],
+      "zanr": "Савремени роман",
+      "format": "Мeki повез",
+      "cena": 1050,
+      "broj_strana": 234,
+      "id_autora": "autor6",
+      "isbn": "979-86-6543-001-5"
+    }
+  },
+  "korisnici": {
+    "korisnik1": {
+      "korisnicko_ime": "pera_peric",
+      "lozinka": "lozinka123",
+      "ime": "Петар",
+      "prezime": "Перић",
+      "email": "pera.peric@email.com",
+      "datum_rodjenja": "1995-04-12",
+      "adresa": "Булевар Михајла Пупина 15, Нови Сад",
+      "zanimanje": "Програмер"
+    },
+    "korisnik2": {
+      "korisnicko_ime": "mila_j",
+      "lozinka": "lozinka456",
+      "ime": "Милица",
+      "prezime": "Јовановић",
+      "email": "milica.j@email.com",
+      "datum_rodjenja": "1998-08-23",
+      "adresa": "Кнез Михајлова 7, Београд",
+      "zanimanje": "Новинар"
+    },
+    "korisnik3": {
+      "korisnicko_ime": "stefan_n",
+      "lozinka": "lozinka789",
+      "ime": "Стефан",
+      "prezime": "Николић",
+      "email": "stefan.nikolic@email.com",
+      "datum_rodjenja": "1990-11-05",
+      "adresa": "Трг слободе 3, Суботица",
+      "zanimanje": "Историчар"
+    },
+    "korisnik4": {
+      "korisnicko_ime": "ana_stojanovic",
+      "lozinka": "lozinka321",
+      "ime": "Ана",
+      "prezime": "Стојановић",
+      "email": "ana.stoj@email.com",
+      "datum_rodjenja": "2001-02-14",
+      "adresa": "Цара Душана 22, Крагујевац",
+      "zanimanje": "Студент"
+    }
+  },
+  "recenzije": {
+    "recenzija1": {
+      "tekst": "Сеобе су изузетно дирљив роман. Осећај носталгије и туге за завичајем прожима сваку страницу. Свакако једно од највећих остварења српске књижевности.",
+      "datum": "2025-11-03",
+      "id_knjige": "knjiga1",
+      "id_korisnika": "korisnik1"
+    },
+    "recenzija2": {
+      "tekst": "Лирика Итаке ме потпуно одушевила. Иако сам тек почео да читам поезију, ова збирка ме је дотакла до суштине. Препоручујем свима.",
+      "datum": "2025-12-15",
+      "id_knjige": "knjiga2",
+      "id_korisnika": "korisnik1"
+    },
+    "recenzija3": {
+      "tekst": "Мамац је роман који се не заборавља лако. Однос сина и мајке, сећања и трауме — све је описано са болном прецизношћу.",
+      "datum": "2026-01-08",
+      "id_knjige": "knjiga5",
+      "id_korisnika": "korisnik2"
+    },
+    "recenzija4": {
+      "tekst": "Породичне приче су ме оставиле без речи. Срблјановић пише о темама које многи избегавају, а она их ставља директно пред нас без заобилажења.",
+      "datum": "2026-02-20",
+      "id_knjige": "knjiga9",
+      "id_korisnika": "korisnik2"
+    },
+    "recenzija5": {
+      "tekst": "Гец и Мајер је кратак, али невероватно снажан роман. Хладноћа нарације само појачава ужас онога о чему се говори.",
+      "datum": "2026-01-30",
+      "id_knjige": "knjiga6",
+      "id_korisnika": "korisnik3"
+    },
+    "recenzija6": {
+      "tekst": "Опсада цркве Светог Спаса је права магична прича. Петровић пише на начин да не знаш где се завршава стварност а почиње сан.",
+      "datum": "2026-03-11",
+      "id_knjige": "knjiga7",
+      "id_korisnika": "korisnik4"
+    },
+    "recenzija7": {
+      "tekst": "Улице под снегом су ме подсетиле на моје студентске дане. Митровић пише једноставно, али искрено и то је оно што га чини посебним.",
+      "datum": "2026-03-25",
+      "id_knjige": "knjiga10",
+      "id_korisnika": "korisnik4"
+    }
+  },
+  "ocene": {
+    "ocena1": {
+      "vrednost": 5,
+      "datum": "2025-11-10",
+      "id_autora": "autor1",
+      "id_korisnika": "korisnik1"
+    },
+    "ocena2": {
+      "vrednost": 4,
+      "datum": "2025-12-20",
+      "id_autora": "autor3",
+      "id_korisnika": "korisnik1"
+    },
+    "ocena3": {
+      "vrednost": 5,
+      "datum": "2026-01-15",
+      "id_autora": "autor2",
+      "id_korisnika": "korisnik2"
+    },
+    "ocena4": {
+      "vrednost": 3,
+      "datum": "2026-02-05",
+      "id_autora": "autor5",
+      "id_korisnika": "korisnik2"
+    },
+    "ocena5": {
+      "vrednost": 4,
+      "datum": "2026-02-18",
+      "id_autora": "autor4",
+      "id_korisnika": "korisnik3"
+    },
+    "ocena6": {
+      "vrednost": 5,
+      "datum": "2026-03-01",
+      "id_autora": "autor3",
+      "id_korisnika": "korisnik3"
+    },
+    "ocena7": {
+      "vrednost": 4,
+      "datum": "2026-03-14",
+      "id_autora": "autor6",
+      "id_korisnika": "korisnik4"
+    },
+    "ocena8": {
+      "vrednost": 5,
+      "datum": "2026-04-02",
+      "id_autora": "autor4",
+      "id_korisnika": "korisnik4"
+    }
+  }
+}
