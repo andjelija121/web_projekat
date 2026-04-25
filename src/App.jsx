@@ -12,7 +12,6 @@ function App() {
     <BrowserRouter>
         <Routes>
           <Route element={<AppKostur/>}> 
-              <Route index element={<Navigate to="/autori" replace />}/>
               <Route path='/autori' element={<Autori/>}/>
               <Route path='/autoriAdmin' element={<AutoriAdmin/>}/>
               <Route index element={<Navigate to="/knjige" replace />}/>
