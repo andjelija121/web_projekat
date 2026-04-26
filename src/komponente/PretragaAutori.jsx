@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import {  useState } from "react";
 
 export default function SearchWithStatus() {
   const [open, setOpen] = useState(false);
@@ -10,8 +10,6 @@ export default function SearchWithStatus() {
     setStatus(value);
     setOpen(false);
   };
-
-
 
   return (
     <div className="w-[40%]">

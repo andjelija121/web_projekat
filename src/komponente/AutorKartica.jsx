@@ -1,9 +1,8 @@
 import React from 'react'
 
 function AutorKartica({ autor }) {
-  console.log(autor)
   return (
-    <div className='grid grid-cols-[60%_40%] grid-rows-[70%_30%] gap-3 items-center bg-bela py-5 px-5 rounded-2xl h-50 w-96'>
+    <div className='grid grid-cols-[60%_40%] grid-rows-[70%_30%] gap-3 items-center bg-bela py-5 px-5 rounded-2xl h-50 w-90'>
       <img className='h-25 w-25 object-cover rounded-2xl col-start-1 row-start-1' src={autor.slike[0]}/>
      
         
