@@ -17,7 +17,7 @@ function App() {
               <Route index element={<Navigate to="/knjige" replace />}/>
               <Route path='/knjige' element={<KatalogKnjiga/>}/>
               <Route path='/knjigaAdmin' element={<KnjigaAdmin/>}/>
-              <Route path='/pojedinacnaKnjiga' element={<PojedinacnaKnjiga/>}/>
+              <Route path='knjige/:knjigaId' element={<PojedinacnaKnjiga/>}/>
           </Route>
         </Routes>
     </BrowserRouter>
