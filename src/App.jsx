@@ -18,7 +18,7 @@ function App() {
               <Route path='autori/:autorId' element={<AutorDetalji/>}/>
               <Route path='/knjige' element={<KatalogKnjiga/>}/>
               <Route path='/knjigaAdmin' element={<KnjigaAdmin/>}/>
-              <Route path='/pojedinacnaKnjiga' element={<PojedinacnaKnjiga/>}/>
+              <Route path='knjige/:knjigaId' element={<PojedinacnaKnjiga/>}/>
           </Route>
         </Routes>
     </BrowserRouter>
