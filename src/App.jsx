@@ -13,7 +13,6 @@ function App() {
     <BrowserRouter>
         <Routes>
           <Route element={<AppKostur/>}> 
-              <Route index element={<Navigate to="/knjige" replace />}/>
               <Route path='/autori' element={<Autori/>}/>
               <Route path='/autoriAdmin' element={<AutoriAdmin/>}/>
               <Route path='autori/:autorId' element={<AutorDetalji/>}/>
