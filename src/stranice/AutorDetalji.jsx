@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useParams } from 'react-router-dom'
 import data from '../data.json'
 import Ocene from '../komponente/Ocene';
+import AutorOpis from '../komponente/AutorOpis';
 
 function AutorDetalji() {
   let {autorId} = useParams();
@@ -15,8 +16,8 @@ function AutorDetalji() {
 }
   console.log(statusBoje[autor.status])
   return (
-    <div className='p-15'>
-      <div className='flex justify-between'>
+    <div className='px-15 pt-15 flex flex-col h-screen overflow-hidden'>
+      <div className='flex justify-between '>
           <div className='flex flex-col gap-3 items-start'>
 
                 <span className={`${statusBoje[autor.status]} py-2 px-4 text-bela tracking-wide rounded-4xl`} >{autor.status}</span>
@@ -34,7 +35,8 @@ function AutorDetalji() {
           </div>
           <Ocene rating={rating} setRating={setRating}/>
       </div>
-      <div>
+      <div className='mt-40 flex-1 min-h-0'>
+          <AutorOpis autor={autor} autorId={autorId}/>
 
       </div>
     </div>
