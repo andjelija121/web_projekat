@@ -12,7 +12,7 @@ export default function SearchWithStatus() {
   };
 
   return (
-    <div className="w-[50%]">
+    <div className="w-[40%]">
       <div className="relative mt-2">
 
         <div className="absolute top-1 left-1 flex items-center">

@@ -15,7 +15,7 @@ const KatalogKnjiga = () => {
         <div className="flex justify-around items-center mb-10">
           <h1
             className="text-4xl font-bold ml-16"
-            bg-dark-coffee-900
+            bg-dark-coffee-100
           >
             Каталог књига
           </h1>
