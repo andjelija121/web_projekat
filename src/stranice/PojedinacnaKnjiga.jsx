@@ -110,7 +110,7 @@ const autorIndex = parseInt(knjiga.id_autora.slice(-1)) - 1;
 
           <div className="grid grid-cols-2 gap-4 mb-8">
             <InfoPolje labela="Формат" vrednost={knjiga.format} />
-            <InfoPolje labela="Број страница" vrednost={`${knjiga.broj_strana} str.`} />
+            <InfoPolje labela="Број страница" vrednost={`${knjiga.broj_strana} стр.`} />
             <InfoPolje labela="ISBN" vrednost={knjiga.isbn} />
             <InfoPolje labela="Жанр" vrednost={knjiga.zanr} />
           </div>

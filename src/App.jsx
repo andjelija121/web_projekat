@@ -14,6 +14,7 @@ function App() {
         <Routes>
           <Route element={<AppKostur/>}> 
               <Route path='/autori' element={<Autori/>}/>
+              <Route index element={<Navigate to="/knjige" replace />}/>
               <Route path='/autoriAdmin' element={<AutoriAdmin/>}/>
               <Route path='autori/:autorId' element={<AutorDetalji/>}/>
               <Route path='/knjige' element={<KatalogKnjiga/>}/>
