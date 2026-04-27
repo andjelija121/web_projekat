@@ -114,16 +114,12 @@ const autorIndex = parseInt(knjiga.id_autora.slice(-1)) - 1;
             <InfoPolje labela="ISBN" vrednost={knjiga.isbn} />
             <InfoPolje labela="Жанр" vrednost={knjiga.zanr} />
           </div>
-
-          <div className="flex items-center gap-6">
-            <div>
+            
+          <div>
               <p className="text-sm text-gray-400 uppercase tracking-widest mb-1 font-sans">Цена</p>
               <p className="text-3xl font-bold text-dark-coffee-700">{knjiga.cena.toLocaleString()} дин</p>
-            </div>
-            <button className="ml-auto bg-dark-coffee-600 hover:bg-dark-coffee-700 text-white font-sans font-semibold px-8 py-3 rounded-xl shadow-lg">
-              Додај у корпу
-            </button>
           </div>
+          
         </div>
       </div>
 

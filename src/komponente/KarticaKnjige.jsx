@@ -20,7 +20,7 @@ const KarticaKnjige = ({ slika, naziv, imeAutora, prezimeAutora, ocena, cena }) 
             {naziv}
           </h2>
           <p className="text-sm text-brown-200 mt-1">
-            by {imeAutora} <span>{prezimeAutora}</span>
+          {imeAutora} <span>{prezimeAutora}</span>
           </p>
         </div>
 
