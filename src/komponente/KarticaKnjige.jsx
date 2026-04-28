@@ -25,7 +25,7 @@ const KarticaKnjige = ({ slika, naziv, imeAutora, prezimeAutora, ocena, cena }) 
         </div>
 
         <p className="text-brown font-semibold text-md mt-3">
-          {cena} RSD
+          {cena} дин
         </p>
       </div>
     </div>
